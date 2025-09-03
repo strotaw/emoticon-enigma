@@ -1,0 +1,26 @@
+[
+    {
+        "emotion" : "laki_senang",
+        "answer" : 1
+    },
+    {
+        "emotion" : "laki_sedih",
+        "answer" : 2
+    },
+    {
+        "emotion" : "laki_marah",
+        "answer" : 3
+    },
+    {
+        "emotion" : "cewek_senang",
+        "answer" : 1
+    },
+    {
+        "emotion" : "cewek_sedih",
+        "answer" : 2
+    },
+    {
+        "emotion" : "cewek_marah",
+        "answer" : 3
+    }
+]
