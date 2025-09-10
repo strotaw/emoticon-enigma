@@ -1678,6 +1678,38 @@
         "name": "Group 126.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON/data.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON\\data.json",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON/data_soal.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON\\data_soal.json",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON/data_lvl2.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON\\data_lvl2.json",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON/data_lvl3.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON\\data_lvl3.json",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5680,7 +5712,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data.json",
+                    "JSON\\data.json",
                     "question",
                     ""
                   ]
@@ -5762,7 +5794,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data.json",
+                    "JSON\\data.json",
                     "question",
                     ""
                   ]
@@ -8632,7 +8664,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_soal.json",
+                    "JSON\\data_soal.json",
                     "soal2",
                     ""
                   ]
@@ -8839,7 +8871,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl2.json",
+                    "JSON\\data_lvl2.json",
                     "question",
                     ""
                   ]
@@ -8974,7 +9006,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl2.json",
+                    "JSON\\data_lvl2.json",
                     "question",
                     ""
                   ]
@@ -9202,7 +9234,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl2.json",
+                    "JSON\\data_lvl2.json",
                     "question",
                     ""
                   ]
@@ -13201,6 +13233,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Soal",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13234,7 +13267,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl3.json",
+                    "JSON\\data_lvl3.json",
                     "question",
                     ""
                   ]
@@ -13437,6 +13470,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13543,6 +13577,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Validate",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",

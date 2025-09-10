@@ -1,0 +1,32 @@
+[
+    {
+        "emotion" : "senang",
+        "answer" : 1,
+        "option" : [1, 2, 3]
+    },
+    {
+        "emotion" : "sedih‌",
+        "answer" : 2,
+        "option" : [1, 2, 3]
+    },
+    {
+        "emotion" : "marah",
+        "answer" : 3,
+        "option" : [1, 2, 3]
+    },
+    {
+        "emotion" : "senang‌",
+        "answer" : 1,
+        "option" : [1, 2, 3]
+    },
+    {
+        "emotion" : "sedih",
+        "answer" : 2,
+        "option" : [1, 2, 3]
+    },
+    {
+        "emotion" : "marah‌",
+        "answer" : 3,
+        "option" : [1, 2, 3]
+    }
+]

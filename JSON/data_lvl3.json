@@ -1,0 +1,52 @@
+[
+    {
+        "emotion": "cewek_sedih",
+        "answer": 4,
+        "option": [1, 4, 5]
+    },
+    {
+        "emotion": "laki_marah",
+        "answer": 5,
+        "option": [1, 4, 5]
+    },
+    {
+        "emotion": "cewek_kaget",
+        "answer": 10,
+        "option": [4, 5, 10]
+    },
+    {
+        "emotion": "laki_mainan",
+        "answer": 5,
+        "option": [4, 5, 10]
+    },
+    {
+        "emotion": "laki_sedih",
+        "answer": 4,
+        "option": [4, 5, 10]
+    },
+    {
+        "emotion": "laki_takut",
+        "answer": 8,
+        "option": [3, 6, 8]
+    },
+    {
+        "emotion": "cewek_marah",
+        "answer": 5,
+        "option": [1, 4, 5]
+    },
+    {
+        "emotion": "cewek_senang",
+        "answer": 2,
+        "option": [2, 5, 11]
+    },
+    {
+        "emotion": "laki_jatuh",
+        "answer": 4,
+        "option": [1, 4, 5]
+    },
+    {
+        "emotion": "cewek_takut",
+        "answer": 7,
+        "option": [2, 5, 7]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "emotion_image": "laki_senang",
+        "soal": 1
+    },
+    {
+        "emotion_image": "cewek_sedih",
+        "soal": 2
+    },
+    {
+        "emotion_image": "cewek_takut",
+        "soal": 3
+    }
+]
