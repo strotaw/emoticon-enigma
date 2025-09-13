@@ -7,7 +7,7 @@
     "revision": 0
   },
   "properties": {
-    "adaptGameResolutionAtRuntime": true,
+    "adaptGameResolutionAtRuntime": false,
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": false,
@@ -116,26 +116,10 @@
         "userAdded": false
       },
       {
-        "file": "Group 83.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 83.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Group 68.png",
         "kind": "image",
         "metadata": "",
         "name": "Group 68.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group 84.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 84.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -212,22 +196,6 @@
         "userAdded": false
       },
       {
-        "disablePreload": false,
-        "file": "../../JSON/data.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "..\\..\\JSON\\data.json",
-        "userAdded": false
-      },
-      {
-        "file": "Group 110.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group 110.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -256,14 +224,6 @@
         "kind": "image",
         "metadata": "",
         "name": "Group 111 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group78.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group78.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -308,14 +268,6 @@
         "userAdded": false
       },
       {
-        "file": "Group88.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group88.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Group72.png",
         "kind": "image",
         "metadata": "",
@@ -329,14 +281,6 @@
         "metadata": "",
         "name": "Group 41 (1).png",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "../../JSON/data_soal.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "..\\..\\JSON\\data_soal.json",
         "userAdded": false
       },
       {
@@ -356,42 +300,10 @@
         "userAdded": false
       },
       {
-        "disablePreload": false,
-        "file": "../../JSON/data_lvl2.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "..\\..\\JSON\\data_lvl2.json",
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 58.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 58.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 92.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 92.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Group 111 (3).png",
         "kind": "image",
         "metadata": "",
         "name": "Group 111 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 112.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 112.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -412,38 +324,6 @@
         "userAdded": false
       },
       {
-        "file": "../../../../Downloads/Group 48.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 48.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 82.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 82.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 114.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 114.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 111 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 111 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -456,30 +336,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 48 (3).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 48 (3).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "disablePreload": false,
-        "file": "../../JSON/data_lvl3.json",
-        "kind": "json",
-        "metadata": "",
-        "name": "..\\..\\JSON\\data_lvl3.json",
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 77 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 77 (2).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -524,42 +380,10 @@
         "userAdded": false
       },
       {
-        "file": "../../../../Downloads/Group 82 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 82 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Frame 30.png",
         "kind": "image",
         "metadata": "",
         "name": "Frame 30.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 92 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 92 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 93.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 93.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Frame 30.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Frame 30.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -588,66 +412,10 @@
         "userAdded": false
       },
       {
-        "file": "../../../../Downloads/Group 117.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 117.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 118.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 118.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 127.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 127.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Group 120.png",
         "kind": "image",
         "metadata": "",
         "name": "Group 120.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 121.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 121.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 122.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 122.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 123.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 123.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 124.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 124.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -660,121 +428,10 @@
         "userAdded": false
       },
       {
-        "file": "../../../../Downloads/Group 126.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 126.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 15.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Super Dream.ttf",
         "kind": "font",
         "metadata": "",
         "name": "Super Dream.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Vector.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Vector.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Rectangle 88.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Rectangle 88.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Super Dream.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Super Dream.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 41 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 41 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "notif salah lv 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "notif salah lv 3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/notif salah lv 3 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\notif salah lv 3 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/X.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\X.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Notif win (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Notif win (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 86.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 86.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 100.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 100.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 101.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 101.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Notif win lv 3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Notif win lv 3.png",
-        "smoothed": true,
         "userAdded": false
       },
       {
@@ -794,226 +451,10 @@
         "userAdded": false
       },
       {
-        "file": "../../../../Downloads/notif salah lv 2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\notif salah lv 2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Frame 31.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Frame 31.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 23.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 23.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 24.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 24.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 25.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 25.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 23 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 23 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 23 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 23 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Frame 30 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Frame 30 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 19.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 19.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 38.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 38.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 14.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/MEMUAT..png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\MEMUAT..png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/MEMUAT...png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\MEMUAT...png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/MEMUAT....png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\MEMUAT....png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/MEMUAT.....png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\MEMUAT.....png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 16.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 14 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 14 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 15 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 15 (1).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 97.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 97.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 14 (2).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 14 (2).png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Group90.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Group90.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "Group101.png",
         "kind": "image",
         "metadata": "",
         "name": "Group101.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 103.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 103.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Untitled.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Untitled.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Rectangle 92.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Rectangle 92.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Ellipse 28.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Ellipse 28.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 128.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 128.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 102.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 102.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1300,14 +741,6 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-20.png\"}",
         "name": "ios-icon-20.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "../../../../Downloads/Group 110 (1).png",
-        "kind": "image",
-        "metadata": "",
-        "name": "..\\..\\..\\..\\Downloads\\Group 110 (1).png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1709,6 +1142,276 @@
         "kind": "json",
         "metadata": "",
         "name": "JSON\\data_lvl3.json",
+        "userAdded": false
+      },
+      {
+        "file": "Background Music Var2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Background Music Var2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Background Music Var1.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Background Music Var1.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Group 98.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 98.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 17 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 17 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group42.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group91.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group91.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "General Button.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "General Button.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Level Select.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Level Select.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Home Button.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Home Button.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "3 Star.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3 Star.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "2 Star.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2 Star.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "1 Star.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "1 Star.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Sedih 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Sedih 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Senang.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Senang.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Marah.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Marah.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Sedih.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Sedih.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Senang.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Senang.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Marah.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Marah.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Intro.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Intro.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Intro.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Intro.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Monolog.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Monolog.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Monolog.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Monolog.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Takut.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Takut.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Win Theme.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Win Theme.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Game Over.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Game Over.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lala Kaget.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Lala Kaget.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Budi Takut.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Budi Takut.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": false
       }
     ],
@@ -2304,7 +2007,7 @@
           "effects": [],
           "behaviors": [],
           "content": {
-            "IsChecked": true
+            "IsChecked": false
           }
         },
         {
@@ -2365,6 +2068,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -2376,6 +2085,19 @@
                 "",
                 "\"Loading\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -2392,6 +2114,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -2413,6 +2141,19 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
             }
           ]
         },
@@ -2428,6 +2169,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -2449,41 +2196,18 @@
                 "ButtonFSM",
                 "yes"
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SpriteToggleSwitch::SpriteToggleSwitch::HasJustBeenUnchecked"
-              },
-              "parameters": [
-                "Switch",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "isMuted",
-                "=",
-                "1"
-              ]
             },
             {
               "type": {
-                "value": "SetNumberVariable"
+                "value": "PlaySoundCanal"
               },
               "parameters": [
-                "volume",
-                "=",
-                "0"
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -2509,17 +2233,59 @@
               "parameters": [
                 "isMuted",
                 "=",
-                "0"
+                "1"
               ]
             },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SpriteToggleSwitch::SpriteToggleSwitch::HasJustBeenUnchecked"
+              },
+              "parameters": [
+                "Switch",
+                ""
+              ]
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "value": "SetNumberVariable"
               },
               "parameters": [
-                "volume",
+                "isMuted",
                 "=",
-                "lastVolume"
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -3719,6 +3485,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -3730,6 +3502,18 @@
                 "",
                 "\"Intro_Scene\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Level Select.wav",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -3746,6 +3530,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -3757,6 +3547,18 @@
                 "",
                 "\"Level_2_Scene\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Level Select.wav",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -3773,6 +3575,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -3784,6 +3592,18 @@
                 "",
                 "\"Level_3_Scene\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Level Select.wav",
+                "",
+                "GlobalVolume()",
+                "1"
               ]
             }
           ]
@@ -5104,7 +4924,7 @@
           "effects": [],
           "behaviors": [],
           "string": "0",
-          "font": "..\\..\\..\\..\\Downloads\\Super Dream.ttf",
+          "font": "Super Dream.ttf",
           "textAlignment": "left",
           "characterSize": 40,
           "color": {
@@ -5127,7 +4947,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "0",
-            "font": "..\\..\\..\\..\\Downloads\\Super Dream.ttf",
+            "font": "Super Dream.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
@@ -5681,11 +5501,13 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "GameScene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -5767,6 +5589,194 @@
                     "question[counter].emotion",
                     "\"info\"",
                     ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"sedih‌\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"senang\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Sedih.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"senang‌\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"marah‌\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -5865,6 +5875,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -5897,6 +5908,19 @@
                     "SimpanEmotion + SimpanAnswer",
                     "\"info\"",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    "1"
                   ]
                 }
               ],
@@ -6003,6 +6027,19 @@
                         "ButtonFSM",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Game Over.mp3",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -6032,6 +6069,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -6047,11 +6090,37 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ShowLayer"
                   },
                   "parameters": [
                     "",
                     "\"notif menang\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Win Theme.mp3",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
                   ]
                 },
                 {
@@ -6074,6 +6143,101 @@
                     "\"notif_benar\""
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"0\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "3 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"1\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "2 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"2\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
@@ -6088,6 +6252,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -6109,6 +6279,19 @@
                     "ButtonFSM",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -6124,6 +6307,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -6135,6 +6324,19 @@
                     "",
                     "\"Level_2_Scene\"",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    "1"
                   ]
                 }
               ]
@@ -6151,6 +6353,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -6171,6 +6379,19 @@
                     "",
                     "\"Level_Scene\"",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Home Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    "1"
                   ]
                 }
               ]
@@ -6201,16 +6422,70 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "LayerVisible"
+                  },
+                  "parameters": [
+                    "",
+                    "\"notif menang\""
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "MusicManager"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Background Music Var1.mp3",
+                "2",
+                "GlobalVolume()",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -6968,7 +7243,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 110 (1).png",
+                      "image": "Group60.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8046,7 +8321,7 @@
           "effects": [],
           "behaviors": [],
           "string": "0",
-          "font": "..\\..\\..\\..\\Downloads\\Super Dream.ttf",
+          "font": "Super Dream.ttf",
           "textAlignment": "left",
           "characterSize": 40,
           "color": {
@@ -8069,7 +8344,7 @@
             "smoothed": true,
             "underlined": false,
             "text": "0",
-            "font": "..\\..\\..\\..\\Downloads\\Super Dream.ttf",
+            "font": "Super Dream.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
@@ -8638,6 +8913,7 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -8725,6 +9001,16 @@
                 },
                 {
                   "type": {
+                    "value": "DebuggerTools::ConsoleLog"
+                  },
+                  "parameters": [
+                    "SimpanSoal",
+                    "\"info\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetStringVariable"
                   },
                   "parameters": [
@@ -8732,15 +9018,100 @@
                     "=",
                     "soal2[counter].emotion_image"
                   ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "soal",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_senang\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Monolog.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
+                  ]
                 },
                 {
-                  "type": {
-                    "value": "DebuggerTools::ConsoleLog"
-                  },
-                  "parameters": [
-                    "SimpanSoal",
-                    "\"info\"",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "soal",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Monolog.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "soal",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Monolog.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -8840,6 +9211,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "spawn_2",
               "conditions": [
@@ -8874,15 +9246,6 @@
                     "JSON\\data_lvl2.json",
                     "question",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AjoutHasard"
-                  },
-                  "parameters": [
-                    "",
-                    "spawn_2"
                   ]
                 },
                 {
@@ -8958,6 +9321,27 @@
                     "counter3",
                     "+",
                     "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -9068,6 +9452,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "spawn_2",
               "conditions": [
@@ -9099,18 +9484,9 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl2.json",
+                    "JSON\\data_lvl2.json",
                     "question",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AjoutHasard"
-                  },
-                  "parameters": [
-                    "",
-                    "spawn_2"
                   ]
                 },
                 {
@@ -9186,6 +9562,27 @@
                     "counter3",
                     "+",
                     "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Sedih.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -9296,6 +9693,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::ForEach",
               "object": "spawn_2",
               "conditions": [
@@ -9327,18 +9725,9 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON\\data_lvl2.json",
+                    "JSON\\data_lvl2.json",
                     "question",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AjoutHasard"
-                  },
-                  "parameters": [
-                    "",
-                    "spawn_2"
                   ]
                 },
                 {
@@ -9355,15 +9744,6 @@
                 },
                 {
                   "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "spawn_2",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -9371,6 +9751,15 @@
                     "Animation",
                     "=",
                     "question[counter2].option[counter3]"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "spawn_2",
+                    ""
                   ]
                 },
                 {
@@ -9414,6 +9803,27 @@
                     "counter3",
                     "+",
                     "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        "1"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -9464,6 +9874,19 @@
                   "parameters": [
                     "SimpanAnswer",
                     "\"info\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
                     ""
                   ]
                 }
@@ -9571,12 +9994,26 @@
                         "\"info\"",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Game Over.mp3",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
                     }
                   ]
                 }
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -9588,6 +10025,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -9613,11 +10056,132 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ShowLayer"
                   },
                   "parameters": [
                     "",
                     "\"notif_menang\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Win Theme.mp3",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"0\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "3 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"1\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "2 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "stars",
+                        "Animation",
+                        "=",
+                        "\"2\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "1 Star.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -9634,6 +10198,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -9655,6 +10225,19 @@
                     "ButtonFSM",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
                 }
               ]
             },
@@ -9670,6 +10253,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -9680,6 +10269,19 @@
                   "parameters": [
                     "",
                     "\"Level_3_Scene\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
                     ""
                   ]
                 }
@@ -9697,6 +10299,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -9717,6 +10325,19 @@
                     "",
                     "\"game layer\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
                 }
               ]
             },
@@ -9732,6 +10353,12 @@
                     "ButtonFSM",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -9753,6 +10380,19 @@
                     "\"Level_Scene\"",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Home Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
                 }
               ]
             }
@@ -9760,11 +10400,50 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "MusicManager"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Background Music Var1.mp3",
+                "2",
+                "GlobalVolume()",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -11463,7 +12142,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 82 (1).png",
+                      "image": "Group91.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12647,7 +13326,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Group 103.png",
+                      "image": "Group 101.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12695,150 +13374,6 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Group 101.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "3",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 101.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "4",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 101.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "5",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
                       "image": "Group101.png",
                       "points": [],
                       "originPoint": {
@@ -12878,199 +13413,7 @@
               ]
             },
             {
-              "name": "6",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 100.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "7",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 100.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "8",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 86.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "9",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Group 86.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 14,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 26
-                          },
-                          {
-                            "x": 413,
-                            "y": 162
-                          },
-                          {
-                            "x": 14,
-                            "y": 162
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "10",
+              "name": "3",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -13239,6 +13582,7 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13378,6 +13722,316 @@
                 }
               ],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Sedih.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_kaget\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Kaget.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_mainan\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_senang\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_jatuh\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::ForEach",
                   "object": "spawn_2",
@@ -13632,10 +14286,24 @@
                     "\"info\"",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "General Button.wav",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
+                  ]
                 }
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13788,6 +14456,317 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Sedih.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_kaget\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Kaget.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_mainan\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_senang\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_jatuh\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
                         "value": "NumberVariable"
                       },
                       "parameters": [
@@ -13798,17 +14777,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "stars",
-                        "Animation",
-                        "=",
-                        "point"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "ShowLayer"
@@ -13826,12 +14794,179 @@
                         "",
                         "\"timer\""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Win Theme.mp3",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"0\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "4"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"1\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "1 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "7"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "2 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "10"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"3\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "3 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13915,6 +15050,19 @@
                   "parameters": [
                     "",
                     "\"notif_salah\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Game Over.mp3",
+                    "3",
+                    "",
+                    "GlobalVolume()",
+                    ""
                   ]
                 },
                 {
@@ -14010,6 +15158,317 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Sedih.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_kaget\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Kaget.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_mainan\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_sedih\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_marah\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Marah.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_senang\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Senang.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_laki_jatuh\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Budi Sedih 1.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "karakter",
+                        "Animation",
+                        "=",
+                        "\"soal_cewek_takut\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Lala Takut.wav",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
                         "value": "NumberVariable"
                       },
                       "parameters": [
@@ -14020,17 +15479,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "stars",
-                        "Animation",
-                        "=",
-                        "point"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "ShowLayer"
@@ -14047,6 +15495,172 @@
                       "parameters": [
                         "",
                         "\"timer\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "Win Theme.mp3",
+                        "3",
+                        "",
+                        "GlobalVolume()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"0\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "4"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"1\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "1 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "7"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"2\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "2 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "point",
+                            "<=",
+                            "10"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "stars",
+                            "Animation",
+                            "=",
+                            "\"3\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "3 Star.wav",
+                            "3",
+                            "",
+                            "GlobalVolume()",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -14068,6 +15682,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -14089,15 +15709,67 @@
                 "\"Level_Scene\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Home Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                ""
+              ]
             }
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "MusicManager"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Background Music Var1.mp3",
+                "2",
+                "GlobalVolume()",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -14520,7 +16192,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Frame 30 (1).png",
+                      "image": "Frame 30 (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14580,7 +16252,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 16.png",
+                      "image": "Group 17.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14605,11 +16277,11 @@
                           },
                           {
                             "x": 387,
-                            "y": 657
+                            "y": 722
                           },
                           {
                             "x": 27,
-                            "y": 657
+                            "y": 722
                           }
                         ]
                       ]
@@ -14640,7 +16312,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 14 (1).png",
+                      "image": "Group 14 (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14711,7 +16383,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 15 (1).png",
+                      "image": "Group 17 (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14771,7 +16443,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 97.png",
+                      "image": "Group 98.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14796,11 +16468,11 @@
                           },
                           {
                             "x": 450,
-                            "y": 642
+                            "y": 648
                           },
                           {
                             "x": 30,
-                            "y": 642
+                            "y": 648
                           }
                         ]
                       ]
@@ -14831,7 +16503,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 14 (2).png",
+                      "image": "Group42.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14902,7 +16574,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "..\\..\\..\\..\\Downloads\\Group 15 (1).png",
+                      "image": "Group 17 (1).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -15037,6 +16709,19 @@
                 "ButtonFSM",
                 "yes"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
             }
           ]
         },
@@ -15064,6 +16749,19 @@
                 "\"Level_1_Scene\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "General Button.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
             }
           ]
         },
@@ -15073,6 +16771,76 @@
             "includeConfig": 0
           },
           "target": "MusicManager"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Budi Intro.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"final_layer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Lala Intro.wav",
+                "3",
+                "",
+                "GlobalVolume()",
+                "1"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15494,8 +17262,168 @@
   "externalEvents": [
     {
       "associatedLayout": "MusicManager",
-      "name": "Untitled external events",
-      "events": []
+      "name": "MusicManager",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "lastVolume",
+                "=",
+                "volume"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModGlobalVolume"
+              },
+              "parameters": [
+                "",
+                "=",
+                "lastVolume"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Background Music Var2.mp3",
+                "1",
+                "yes",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "isMuted",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PauseMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PauseMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "isMuted",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "RePlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "RePlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "eventsFunctionsExtensions": [
@@ -33573,24 +35501,5 @@
       ]
     }
   ],
-  "externalLayouts": [
-    {
-      "associatedLayout": "MusicManager",
-      "name": "MusicManager",
-      "instances": [],
-      "editionSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      }
-    }
-  ]
+  "externalLayouts": []
 }
