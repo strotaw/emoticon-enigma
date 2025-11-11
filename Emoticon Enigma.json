@@ -1413,6 +1413,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Background Music Var3.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Background Music Var3.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1440,6 +1450,11 @@
     },
     {
       "name": "lastVolume",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "main",
       "type": "number",
       "value": 0
     }
@@ -2312,16 +2327,6 @@
                 "volume",
                 "=",
                 "Slider.Value()"
-              ]
-            },
-            {
-              "type": {
-                "value": "DebuggerTools::ConsoleLog"
-              },
-              "parameters": [
-                "volume",
-                "\"info\"",
-                ""
               ]
             }
           ]
@@ -3473,6 +3478,31 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "main",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -5497,6 +5527,31 @@
       },
       "events": [
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "main",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -6053,6 +6108,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "SystemScene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -6442,50 +6498,11 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MusicPlaying"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "StopMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "Background Music Var1.mp3",
-                "2",
-                "GlobalVolume()",
-                "GlobalVolume()",
-                ""
-              ]
-            }
-          ]
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "MusicManager"
         }
       ],
       "layers": [
@@ -8903,6 +8920,31 @@
       },
       "events": [
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "main",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -10400,50 +10442,11 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MusicPlaying"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "StopMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "Background Music Var1.mp3",
-                "2",
-                "GlobalVolume()",
-                "GlobalVolume()",
-                ""
-              ]
-            }
-          ]
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "MusicManager"
         }
       ],
       "layers": [
@@ -10879,6 +10882,11 @@
         },
         {
           "name": "step",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Variable",
           "type": "number",
           "value": 0
         }
@@ -13576,7 +13584,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Soal",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13595,6 +13602,16 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "main",
+                    "=",
+                    "1"
+                  ]
+                },
                 {
                   "type": {
                     "value": "DebuggerTools::ConsoleLog"
@@ -15726,50 +15743,11 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "MusicPlaying"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "StopMusicCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "Background Music Var1.mp3",
-                "2",
-                "GlobalVolume()",
-                "GlobalVolume()",
-                ""
-              ]
-            }
-          ]
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "MusicManager"
         }
       ],
       "layers": [
@@ -17270,22 +17248,12 @@
           "actions": [
             {
               "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "lastVolume",
-                "=",
-                "volume"
-              ]
-            },
-            {
-              "type": {
                 "value": "ModGlobalVolume"
               },
               "parameters": [
                 "",
                 "=",
-                "lastVolume"
+                "volume"
               ]
             }
           ]
@@ -17295,10 +17263,12 @@
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
+                "value": "NumberVariable"
               },
               "parameters": [
-                ""
+                "main",
+                "=",
+                "0"
               ]
             },
             {
@@ -17322,8 +17292,35 @@
                 "Background Music Var2.mp3",
                 "1",
                 "yes",
-                "GlobalVolume()",
+                "",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                }
               ]
             }
           ]
@@ -17333,6 +17330,17 @@
           "conditions": [
             {
               "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "main",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
                 "value": "MusicPlaying"
               },
               "parameters": [
@@ -17344,11 +17352,42 @@
           "actions": [
             {
               "type": {
-                "value": "StopMusicCanal"
+                "value": "PlayMusicCanal"
               },
               "parameters": [
                 "",
-                "2"
+                "Background Music Var1.mp3",
+                "2",
+                "yes",
+                "",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
               ]
             }
           ]
@@ -17370,20 +17409,24 @@
           "actions": [
             {
               "type": {
-                "value": "PauseMusicCanal"
+                "value": "ModVolumeMusicCanal"
               },
               "parameters": [
                 "",
-                "1"
+                "1",
+                "=",
+                "0"
               ]
             },
             {
               "type": {
-                "value": "PauseMusicCanal"
+                "value": "ModVolumeMusicCanal"
               },
               "parameters": [
                 "",
-                "2"
+                "2",
+                "=",
+                "0"
               ]
             }
           ]
@@ -17405,20 +17448,24 @@
           "actions": [
             {
               "type": {
-                "value": "RePlayMusicCanal"
+                "value": "ModVolumeMusicCanal"
               },
               "parameters": [
                 "",
-                "1"
+                "1",
+                "=",
+                "100"
               ]
             },
             {
               "type": {
-                "value": "RePlayMusicCanal"
+                "value": "ModVolumeMusicCanal"
               },
               "parameters": [
                 "",
-                "2"
+                "2",
+                "=",
+                "100"
               ]
             }
           ]
